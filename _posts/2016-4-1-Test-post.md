@@ -18,4 +18,7 @@ Follow this gist, and do it all from the terminal!
 
 <script src="https://gist.github.com/ssaunier/11346846.js"></script>
 
-You're welcome :)
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
