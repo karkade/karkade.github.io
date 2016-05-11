@@ -4,6 +4,19 @@ title: "Host any front end project with GitHub Pages"
 description: "Work in the gh-pages branch of your git project, set up your own domain with a CNAME"
 category: blog
 ---
+## List
+
+1. [ ] Figure out wormholes
+  1. [ ] Call @arfon
+  2. [ ] Research ([docs](http://en.wikipedia.org/wiki/Wormhole#Time_travel))
+  3. [ ] Build prototype #15
+  4. [ ] Test run #43 @world-domination/time-travel
+2. [ ] ...?
+3. [ ] Profit!
+
+-----
+| day 1|day 2 |day 3|
+-----
 
 Sometimes you want to work on a simple web page, and you don't want the burden
 of having to setup some hosting environment.
