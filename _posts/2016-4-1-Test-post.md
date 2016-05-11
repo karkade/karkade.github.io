@@ -22,3 +22,9 @@ Follow this gist, and do it all from the terminal!
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
+
+tasks lists:
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
