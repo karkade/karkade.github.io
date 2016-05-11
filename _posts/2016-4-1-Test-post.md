@@ -13,10 +13,22 @@ category: blog
   4. [ ] Test run #43 @world-domination/time-travel
 2. [ ] ...?
 3. [ ] Profit!
+ 
 
------
-| day 1|day 2 |day 3|
------
+✔
+☑
+☑ 
+☐
+
+:white_medium_square:
+
+:ballot_box_with_check:
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 Sometimes you want to work on a simple web page, and you don't want the burden
 of having to setup some hosting environment.
