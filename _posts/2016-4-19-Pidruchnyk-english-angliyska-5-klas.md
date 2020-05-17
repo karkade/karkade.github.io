@@ -12,13 +12,15 @@ category: blog
 
 
 
-|<iframe src = "https://app.gitmind.com/doc/f7b63714" width='800' height='600' allowfullscreen webkitallowfullscreen></iframe> 
+<iframe src = "https://app.gitmind.com/doc/f7b63714" width='800' height='600' allowfullscreen webkitallowfullscreen></iframe> 
 
 
 https://app.gitmind.com/doc/f7b63714
 
 
+
 <iframe src = "https://app.gitmind.com/doc/64ef7b8309d9a7061195f1d090183e7c#" width='800' height='600' allowfullscreen webkitallowfullscreen></iframe> 
+
 
 
 https://app.gitmind.com/doc/64ef7b8309d9a7061195f1d090183e7c#
